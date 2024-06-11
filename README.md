@@ -8,8 +8,7 @@ Setup Instructions:
 python -m venv REUMLENV
 source REUMLENV/bin/activate
 pip install pandas numpy matplotlib seaborn scikit-learn yellowbrick jupyter
-ipython kernel install --name=REUMLENV
-jupyter notebook
+REUMLENV/bin/jupyter notebook
 ```
 The first line creates a virtual Python environment that we will work from, as not to disturb your local Python environment. 
 The second line activates this environment for use. 
