@@ -18,7 +18,7 @@ The third line install the packages necessary for today's workshop.
 
 4. When we are finished, you may close Jupyter like normal, and type the following in the terminal window to close your virtual Python environment:
 ```
-deactive
+deactivate
 ```
    
 
