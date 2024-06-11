@@ -2,6 +2,7 @@
 
 Setup Instructions: 
 1. Download the GaiaREU-ML_v2024.ipynb notebook from github
+
 2. From your local computer, open a terminal and run the following commands:
 ```
 python -m venv REUMLENV
@@ -12,4 +13,5 @@ jupyter notebook
 The first line creates a virtual python environment that we will work from, as not to disturb your local python environment. 
 The second line activates this environment for use. 
 The third line install the packages necessary for today's workshop. 
+
 3. From the Jupyter environment just created, open the notebook you downloaded in step 1. 
