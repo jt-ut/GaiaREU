@@ -10,7 +10,7 @@ source REUMLENV/bin/activate
 pip install pandas numpy matplotlib seaborn scikit-learn yellowbrick jupyter
 jupyter notebook
 ```
-The first line creates a virtual python environment that we will work from, as not to disturb your local python environment. 
+The first line creates a virtual Python environment that we will work from, as not to disturb your local Python environment. 
 The second line activates this environment for use. 
 The third line install the packages necessary for today's workshop. 
 
