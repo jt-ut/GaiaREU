@@ -14,4 +14,11 @@ The first line creates a virtual python environment that we will work from, as n
 The second line activates this environment for use. 
 The third line install the packages necessary for today's workshop. 
 
-3. From the Jupyter environment just created, open the notebook you downloaded in step 1. 
+3. From the Jupyter environment just created, open the notebook you downloaded in step 1.
+
+4. When we are finished, you may close Jupyter like normal, and type the following in the terminal window to close your virtual Python environment:
+```
+deactive
+```
+   
+
