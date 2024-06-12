@@ -1,6 +1,9 @@
 # Machine Learning Workshop for UT Astronomy's REU Program!
 
-Setup Instructions: 
+To run in Google Colab, view the preview of GaiaREU-ML_v2024.ipynb and click the "Open in Colab" link at the top (make sure you are signed in to a Google account). 
+
+
+Alternatively, to run locally, follow these setup instructions: 
 1. Download the GaiaREU-ML_v2024.ipynb notebook from github
 
 2. From your local computer, open a terminal and issue the following commands, one per line:
